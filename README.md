@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeCampus
 
 CodeCampus is a React-based learning website with course browsing, authentication pages, a dashboard, wishlist support, and contact/home pages.
@@ -63,3 +64,6 @@ npm run build
 - The app uses local storage to persist the signed-in user and wishlist data.
 - If you are using a newer Node.js version, the `start` script is already configured with `cross-env` for compatibility with the current React scripts setup.
 "# CodeCampus-A-React-based-learning-website" 
+=======
+# CodeCampus
+>>>>>>> f611e80b001b80ce8b558e92a354064ee3cf1036
